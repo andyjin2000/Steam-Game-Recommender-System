@@ -1,0 +1,10 @@
+
+mysql:
+    username: root
+    password: ''
+    endpoint: localhost
+    database: steam
+
+
+steam:
+    api_key: D0C62157A8941F12A687382B6D635449
